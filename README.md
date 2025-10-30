@@ -1,5 +1,11 @@
 # EDUGRADE
-VIEW EDUGRADE HERE - live link:https://edugrade-1760995060447.chatand.build
+**NEW REFINED VERSION**
+
+VIEW LATEST EDUGRADE VERSION HERE - https://mobile-build-69025a1906affe08fcf297e7.chatand.build
+
+
+
+OLD live link:https://edugrade-1760995060447.chatand.build
 
 > A brutally efficient, AI-powered educational platform for teachers and students. No fluff. Just results.
 
