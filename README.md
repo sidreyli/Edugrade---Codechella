@@ -1,7 +1,7 @@
 # EDUGRADE
 **NEW REFINED VERSION**
 
-VIEW LATEST EDUGRADE VERSION HERE - https://mobile-build-69082e3c8389b7d07ac315a0.chatand.build
+VIEW LATEST EDUGRADE VERSION HERE - https://latest-1762143795255.chatand.build/
 
 
 
